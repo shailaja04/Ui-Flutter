@@ -120,8 +120,5 @@ setState(() {
 This project is open-source and free to use.
 
 ```
-
-If you want, I can also create a **more visually appealing version with badges, screenshots, and project status** for your GitHub repo. That usually makes your Flutter projects look more professional.  
-
 Do you want me to do that?
 ```
